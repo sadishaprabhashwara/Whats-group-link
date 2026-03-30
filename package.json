@@ -1,0 +1,12 @@
+{
+  "name": "wa-group-links-sl-v3",
+  "version": "3.0.0",
+  "description": "WhatsApp Group Directory SL — Monetized Edition",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3",
+    "cors": "^2.8.5"
+  }
+}
